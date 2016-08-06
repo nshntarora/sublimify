@@ -1,0 +1,11 @@
+{
+  "name": "sublimify",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Sublime Text like UI theme for Atom",
+  "license": "MIT",
+  "repository": "https://github.com/nshntarora/sublimify",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
