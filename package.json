@@ -5,6 +5,13 @@
   "description": "Sublime Text like UI theme for Atom",
   "license": "MIT",
   "repository": "https://github.com/nshntarora/sublimify",
+  "keywords": [
+    "dark",
+    "theme",
+    "ui",
+    "sublime",
+    "monokai"
+  ],
   "engines": {
     "atom": ">0.40.0"
   }
