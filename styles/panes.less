@@ -15,6 +15,13 @@ atom-pane-container {
     &:focus {
       background-color: @app-background-color;
     }
+    .item-views .pane-item {
+      .text(subtle);
+      background: lighten(@app-background-color, 4%);
+      &:focus {
+        background-color: @app-background-color;
+      }
+    }
   }
 
   atom-pane-axis.horizontal > * {
