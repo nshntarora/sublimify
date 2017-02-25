@@ -7,10 +7,12 @@
   "repository": "https://github.com/nshntarora/sublimify",
   "keywords": [
     "dark",
+    "gray",
     "theme",
     "ui",
     "sublime",
-    "monokai"
+    "monokai",
+    "minimap"
   ],
   "engines": {
     "atom": ">0.40.0"
